@@ -1,0 +1,8 @@
+#list ul {
+  margin-top: 10px;
+}
+
+#list li {
+  background-color: blue;
+  margin-bottom: 10px;
+}
